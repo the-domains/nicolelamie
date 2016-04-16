@@ -1,0 +1,28 @@
+name: Nicole Lamie
+favicon: null
+layout_spectrum: 0.8858999595977366
+typography_spectrum: 0.7928861456457525
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8195851205382496
+  lightness: 0.24693438061513007
+  saturation: 0.4271753472276032
+  rhythmicContrast: 0.9394279483240098
+purpose: []
